@@ -17,6 +17,8 @@
     "moment": "^2.29.3"
   },
   "devDependencies": {
-    "@vuepress/plugin-pwa": "^1.9.7"
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-pwa": "^1.9.7",
+    "vuepress": "^1.9.7"
   }
 }
