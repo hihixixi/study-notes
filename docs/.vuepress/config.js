@@ -3,6 +3,7 @@ const sidebarConf = require('./config/sidebarConf.js');
 const moment = require('moment');
 
 module.exports = {
+    base: '/docs/',
     title: '杜毅柳',
     description: '一个又菜又爱学的人!',
     plugins:[
