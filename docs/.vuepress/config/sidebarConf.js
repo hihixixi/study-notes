@@ -1,5 +1,4 @@
 module.exports = {
-    sidebar: auto,
     sidebarDepth: 2,
     "/blogs/ssm/spring/":[
         'start',
