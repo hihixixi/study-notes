@@ -1,3 +1,6 @@
+---
+sidebar: true
+---
 [TOC]
 
 # java基本知识
