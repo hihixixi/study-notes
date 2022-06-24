@@ -6,7 +6,7 @@ module.exports = [
             {
                 text:'Java基础',
                 items:[
-                    {text:'Java基础',link:'/java/java基本语法知识'},
+                    {text:'Java基础',link:'/blogs/java/java基本语法知识'},
                 ]
             },
             {
