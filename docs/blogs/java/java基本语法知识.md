@@ -1,6 +1,3 @@
----
-sidebar: auto
----
 [TOC]
 
 # java语言基础
