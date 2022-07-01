@@ -4,7 +4,8 @@ module.exports = {
         'start',
         'config',
         'one',
-        'two'
+        'two',
+        'mytest'
     ],
     "blogs/java/":[
         "java基本语法知识",
