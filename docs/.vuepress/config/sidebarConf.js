@@ -7,6 +7,7 @@ module.exports = {
         'two'
     ],
     "blogs/java/":[
-        "java基本语法知识"
+        "java基本语法知识",
+        "类和对象"
     ]
 }
