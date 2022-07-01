@@ -1,5 +1,5 @@
 module.exports = {
-    sidebarDepth: 2,
+    sidebarDepth: 3,
     "/blogs/java/":[
         'java基本语法知识',
         '类和对象'
