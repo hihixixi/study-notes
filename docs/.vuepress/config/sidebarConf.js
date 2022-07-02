@@ -2,7 +2,8 @@ module.exports = {
     sidebarDepth: 3,
     "/blogs/java/":[
         'java基本语法知识',
-        '类和对象'
+        '类和对象',
+        '注解'
     ],
     "/blogs/ssm/spring/":[
         'start',
@@ -10,6 +11,5 @@ module.exports = {
         'one',
         'two',
         'mytest',
-        'java基本语法知识'
     ],
 }
